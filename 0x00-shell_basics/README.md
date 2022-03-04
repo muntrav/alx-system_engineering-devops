@@ -13,5 +13,4 @@
 12-file_type - file type
 13-symbolic_link - symlink
 14-copy_html - copy
-0-iam_betty - file betty
-1-who_am_i - usernam
+
